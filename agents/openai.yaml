@@ -1,0 +1,4 @@
+interface:
+  display_name: "ProxyBridge"
+  short_description: "Connect proxy APIs to Codex"
+  default_prompt: "Help me connect my API key to Codex using ProxyBridge."
